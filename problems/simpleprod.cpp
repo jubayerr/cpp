@@ -1,6 +1,8 @@
 #include<iostream>
 using namespace std;
 
+// beeCrowd 1004
+
 int main()
 {
     int A, B, PROD;
